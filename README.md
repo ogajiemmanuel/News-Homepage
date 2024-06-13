@@ -1,2 +1,2 @@
 # News-Homepage
-Fronted Mentor practice of the 'News Homepage' junior developer challenge
+Frontend Mentor practice of the 'News Homepage' junior developer challenge
